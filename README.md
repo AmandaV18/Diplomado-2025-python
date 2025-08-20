@@ -24,6 +24,7 @@ This is a course in python for PUCP
 2. Pedro Pascal
 3. Denzel Washintong
 4. Adam Sandler
+5. Sandra Bullock
 
 ## Schools
 1. La Union
